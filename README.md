@@ -1,0 +1,3 @@
+# TestBeanUtilsCopyProperties
+org.apache.commons.beanutils.converters.SqlTimestampConverter
+org.apache.commons.beanutils.converters.AbstractConverter
